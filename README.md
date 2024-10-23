@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up bro
 
 <!--
 **Neit2108/Neit2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
